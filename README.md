@@ -3,7 +3,7 @@ Installation gradle:
 
  Add the dependency
  
- dependencies {
+dependencies {
 	        implementation 'com.github.artem-nr:ProgressStepLine:Tag'
 	}
   
