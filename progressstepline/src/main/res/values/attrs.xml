@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ProgressStepLine">
+        <attr name="maxProgress" format="integer" />
+        <attr name="currentProgress" format="integer" />
+        <attr name="enableProgressColor" format="color"/>
+        <attr name="disableProgressColor" format="color"/>
+        <attr name="enableTextColor" format="color"/>
+        <attr name="disableTextColor" format="color"/>
+        <attr name="progressDuration" format="integer"/>
+        <attr name="progressTextSize" format="dimension"/>
+        <attr name="progressMargin" format="dimension"/>
+        <attr name="textMargin" format="dimension"/>
+        <attr name="progressHeight" format="dimension"/>
+    </declare-styleable>
+
+</resources>
