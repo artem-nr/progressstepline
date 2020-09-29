@@ -1,4 +1,4 @@
-package com.artem_nr.stepline.app
+package com.artemnr.stepline.app
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

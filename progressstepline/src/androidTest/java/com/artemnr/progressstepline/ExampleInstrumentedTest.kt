@@ -1,4 +1,4 @@
-package com.artem_nr.progress_step_line
+package com.artemnr.progressstepline
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
@@ -19,6 +19,6 @@ class ExampleInstrumentedTest {
     fun useAppContext() {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getInstrumentation().targetContext
-        assertEquals("com.artem_nr.progress_step_line.test", appContext.packageName)
+        assertEquals("com.artem_nr.progressstepline.test", appContext.packageName)
     }
 }

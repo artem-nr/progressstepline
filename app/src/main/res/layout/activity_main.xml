@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
-    <com.artem_nr.progress_step_line.ProgressStepLine
+    <com.artemnr.progressstepline.ProgressStepLine
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_margin="20dp"

@@ -7,8 +7,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="73bd0b85-d960-40a0-b578-aab8327496a0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/app/app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/generated/source/buildConfig/debug/com/artemnr/stepline/app/BuildConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/generated/source/buildConfig/debug/com/artemnr/stepline/app/BuildConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/androidTest/java/com/artem_nr/stepline/app/ExampleInstrumentedTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/androidTest/java/com/artemnr/stepline/app/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/artem_nr/stepline/app/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/artemnr/stepline/app/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/test/java/com/artem_nr/stepline/app/ExampleUnitTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/test/java/com/artemnr/stepline/app/ExampleUnitTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/progressstepline/build/generated/source/buildConfig/debug/com/artemnr/progressstepline/BuildConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/progressstepline/build/generated/source/buildConfig/debug/com/artemnr/progressstepline/BuildConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/progressstepline/src/androidTest/java/com/artem_nr/progress_step_line/ExampleInstrumentedTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/progressstepline/src/androidTest/java/com/artemnr/progressstepline/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/progressstepline/src/main/java/com/artem_nr/progress_step_line/ProgressStepLine.kt" beforeDir="false" afterPath="$PROJECT_DIR$/progressstepline/src/main/java/com/artemnr/progressstepline/ProgressStepLine.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/progressstepline/src/test/java/com/artem_nr/progress_step_line/ExampleUnitTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/progressstepline/src/test/java/com/artemnr/progressstepline/ExampleUnitTest.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -157,10 +168,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="221" y="96" key="AndroidCreateResourceFileDialog/0.0.1280.680@0.0.1280.680" timestamp="1601394819360" />
-    <state x="421" y="67" key="FileChooserDialogImpl" timestamp="1601393457040">
+    <state x="421" y="67" key="FileChooserDialogImpl" timestamp="1601401872506">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="421" y="67" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1601393457040" />
+    <state x="421" y="67" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1601401872506" />
     <state x="142" y="0" key="SettingsEditor" timestamp="1601400758970">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -173,10 +184,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="452" y="119" key="chooseDestDirectoryDialog/0.0.1280.680@0.0.1280.680" timestamp="1601393904308" />
-    <state x="336" y="164" key="com.intellij.ide.util.TipDialog" timestamp="1601400887291">
+    <state x="336" y="164" key="com.intellij.ide.util.TipDialog" timestamp="1601401301689">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="336" y="164" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1601400887291" />
+    <state x="336" y="164" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1601401301689" />
     <state x="267" y="84" key="psd.add.library.dependency.panel.dimension" timestamp="1601393364785">
       <screen x="0" y="0" width="1280" height="680" />
     </state>

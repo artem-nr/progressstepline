@@ -1,4 +1,4 @@
-package com.artem_nr.stepline.app
+package com.artemnr.stepline.app
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle

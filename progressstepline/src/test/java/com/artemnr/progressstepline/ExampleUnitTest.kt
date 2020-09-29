@@ -1,4 +1,4 @@
-package com.artem_nr.stepline.app
+package com.artemnr.progressstepline
 
 import org.junit.Test
 
