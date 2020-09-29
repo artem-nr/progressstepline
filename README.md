@@ -13,5 +13,5 @@ Installation gradle:
 Step 2. Add the dependency
 
 dependencies {
-	        implementation 'com.github.artem-nr:progressstepline:1.0'
+	        implementation 'com.github.artem-nr:progressstepline:1.1'
 	}
