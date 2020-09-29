@@ -4,6 +4,5 @@ Installation gradle:
  Add the dependency
  
 dependencies {
-	        implementation 'com.github.artem-nr:ProgressStepLine:Tag'
+	        implementation 'com.github.artem-nr:progressstepline:Tag'
 	}
-  
