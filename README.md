@@ -1,6 +1,14 @@
 # ProgressStepLine
 Installation gradle: 
 
+ProgressStepLine shows animated progress indicator step by step
+
+____
+
+## Demo
+
+
+____
  Step 1. Add the JitPack repository to your build file
  
  allprojects {
