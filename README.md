@@ -7,7 +7,7 @@ ____
 
 ## Demo
 
-![Alt-текст](https://avatars1.githubusercontent.com/u/5384215?v=3&s=460 "Img")
+![Alt-текст](https:// "Img")
 ____
  Step 1. Add the JitPack repository to your build file
  
