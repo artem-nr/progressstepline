@@ -8,7 +8,18 @@ ____
 ## Demo
 
 ![Alt-текст](https://user-images.githubusercontent.com/35424407/101927649-c72b8600-3be5-11eb-8f29-784c8865f0c0.gif "Img")
+
+## Usage
 ____
+
+### Gradle
+
+```
+dependencies {
+    implementation 'com.github.artem-nr:progressstepline:1.1'
+}
+```
+
  Step 1. Add the JitPack repository to your build file
  
  allprojects {
@@ -20,6 +31,4 @@ ____
 	
 Step 2. Add the dependency
 
-dependencies {
-	        implementation 'com.github.artem-nr:progressstepline:1.1'
-	}
+
