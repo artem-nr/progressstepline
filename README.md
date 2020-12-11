@@ -20,4 +20,10 @@ dependencies {
 }
 ```
 
+Use it in your own code:
 
+```
+<com.artemnr.progressstepline.ProgressStepLine
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+```
