@@ -33,3 +33,11 @@ The Customized properties are in the follow table
 |----------------|:---------:|----------------:|
 | maxProgress | Int | 5 |
 | currentProgress | Int | 0 |
+| previousProgress | Float | 0F |
+| progressDuration | Long | 600L |
+| enableProgressColor | Int (resourses) | #0099DA |
+| disableProgressColor | Int (resourses) | #DFE4E8 |
+| enableTextColor | Int (resourses) | #0099DA |
+| disableTextColor | Int (resourses) | #C2CACF |
+| progressTextSize | Float | 14sp |
+| progressMargin | Float | 30dp |
