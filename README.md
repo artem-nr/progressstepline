@@ -1,5 +1,4 @@
 # ProgressStepLine
-Installation gradle: 
 
 ProgressStepLine shows animated progress indicator step by step
 
@@ -27,3 +26,10 @@ Use it in your own code:
         android:layout_width="match_parent"
         android:layout_height="wrap_content"/>
 ```
+
+The Customized properties are in the follow table
+
+| LEFT | CENTER | RIGHT |
+|----------------|:---------:|----------------:|
+| По левому краю | По центру | По правому краю |
+| текст | текст | текст |
