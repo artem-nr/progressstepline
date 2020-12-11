@@ -30,7 +30,7 @@ Use it in your own code:
 The Customized properties are in the follow table
 
 | Property | Format | Default |
-|:----------------:|:---------:|:----------------:|
+|----------------|:---------:|:----------------:|
 | maxProgress | Int | 5 |
 | currentProgress | Int | 0 |
 | previousProgress | Float | 0F |
