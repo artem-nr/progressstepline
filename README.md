@@ -29,7 +29,7 @@ Use it in your own code:
 
 The Customized properties are in the follow table
 
-| LEFT | CENTER | RIGHT |
+| Property | Format | Default |
 |----------------|:---------:|----------------:|
-| По левому краю | По центру | По правому краю |
-| текст | текст | текст |
+| maxProgress | Int | 5 |
+| currentProgress | Int | 0 |
